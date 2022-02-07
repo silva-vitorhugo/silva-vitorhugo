@@ -15,7 +15,7 @@ Sou apaixonado por resolver problemas e aprender. Sempre aberto a novos desafios
 
 Junte-se a mim 👇🏼
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/isadora-rodrigues-stangarlin-48402b141/)](https://www.linkedin.com/in/vitorhugodasilva/) [![Instagram Badge](https://img.shields.io/badge/-Instagram-violet?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/_vitorhugodasilva/)](https://www.instagram.com/_vitorhugodasilva/) 
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/isadora-rodrigues-stangarlin-48402b141/)](https://www.linkedin.com/in/vitorhugodasilva/) [![Instagram Badge](https://img.shields.io/badge/-Instagram-violet?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/_vitorhugosilva/)](https://www.instagram.com/_vitorhugosilva/) 
 
 <!---
 silva-vitorhugo/silva-vitorhugo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
