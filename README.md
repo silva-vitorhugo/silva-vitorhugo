@@ -10,9 +10,9 @@ Sou Vitor Hugo! Apaixonado e entusiasta de tecnologia. </br>
 - 🎓 Pós-Graduação em Desenvolvimento Web
 - 💬 Compartilhando um pouco da minha jornada Front-End
 - 🤝 Estou aberto a colaborar em Projetos
-- 📫 Como chegar até mim: [hugosilva.info@gmail.com](mailto:hugosilva.info@gmail.com) </br>
+- 📫 Como chegar até mim: [hugosilva.info@gmail.com](mailto:hugosilva.info@gmail.com) 
 </br>
-   > #### 🌍 "Quanto mais eu sei, mais eu sou" 🧠 
+   > ### 🌍 "Quanto mais eu sei, mais eu sou" 🧠 
 </br>
 
 # 💻 Tecnologias e Ferramentas
