@@ -1,7 +1,7 @@
 # 👋 Olá
 
 Sou Vitor Hugo! Apaixonado e entusiasta de tecnologia. </br>
-🎯 Objetivo: Desenvolvedor Front-end </br>
+🎯 Objetivo: Desenvolvedor Front-end </br></br>
 
 - 📍 Morando na Região Metropolitana de Campinas-SP
 - 🌱 Estudante de Desenvolvimento Web focado em Front-End
