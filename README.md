@@ -4,7 +4,7 @@ Sou Vitor Hugo! Apaixonado e entusiasta de tecnologia. </br>
 🎯 Objetivo: Desenvolvedor Front-end </br>
 
 - 📍 Morando na Região Metropolitana de Campinas-SP
-- 🌱 Desenvolvimento Web focado em Front-End
+- 🌱 Estudante de Desenvolvimento Web focado em Front-End
 - 👨‍🎓 Aluno no curso de Graduação em Análise e Desenvolvimento de Sistemas
 - 🎓 Graduação Tecnológica em Design Gráfico
 - 🎓 Pós-Graduação em Desenvolvimento Web
@@ -12,7 +12,7 @@ Sou Vitor Hugo! Apaixonado e entusiasta de tecnologia. </br>
 - 🤝 Estou aberto a colaborar em Projetos
 - 📫 Como chegar até mim: [hugosilva.info@gmail.com](mailto:hugosilva.info@gmail.com) </br>
 
-> ### 🌍 "Quanto mais eu sei, mais eu sou" 🧠 
+   > ### 🌍 "Quanto mais eu sei, mais eu sou" 🧠 
 
 
 # 💻 Tecnologias e Ferramentas
